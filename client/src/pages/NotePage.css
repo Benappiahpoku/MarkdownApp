@@ -1,0 +1,16 @@
+/* NotePage.css */
+.note-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.note-page h1 {
+    margin-bottom: 20px;
+}
+
+.note-page p {
+    width: 100%;
+    max-width: 500px;
+}
